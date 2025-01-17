@@ -63,11 +63,9 @@ MiniLangInterpreter/
 │   ├── interpreter.py         # Interpreter module
 │
 ├── tests/                     # Test cases
-│   ├── __init__.py            # Test package initializer
 │   ├── test_interpreter.py    # Unit tests for the interpreter
 │
 ├── main.py                    # Entry point for the interpreter
-├── .gitignore                 # Git ignore file
 ├── README.md                  # Project documentation
 ```
 ## **Contributions**
