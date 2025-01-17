@@ -15,6 +15,9 @@ A lightweight interpreter for a custom mini-language, supporting basic arithmeti
   - Division/Modulus by zero
   - Invalid characters
   - Incomplete expressions
+ 
+The interpreter is built with a tokenizer, parser, and an interpreter, showcasing a modular design. It also includes features like nested parentheses, operator precedence, and robust error handling, making it an excellent foundation for learning about interpreters or extending with new language features.
+
 
 ---
 
